@@ -1,1 +1,1 @@
-# cfm-mvp
+# Consumer Financial Management Tool
